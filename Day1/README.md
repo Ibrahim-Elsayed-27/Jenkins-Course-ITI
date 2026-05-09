@@ -38,6 +38,27 @@
 <img width="727" height="139" alt="image" src="https://github.com/user-attachments/assets/b61913be-e03a-4eb0-a003-f95ada2b2a0e" />
 
 6- create declarative in jenkins GUI pipeline for your own repo to do "ls"
+<img width="1593" height="808" alt="image" src="https://github.com/user-attachments/assets/4448d837-bbea-47bc-85d6-1b1573c75ac8" />
+
+---
+
+<img width="1593" height="808" alt="image" src="https://github.com/user-attachments/assets/1728906a-09a8-4add-99c3-be3b6a39af4f" />
+
 
 7- create scripted in jenkins GUI pipeline for your own repo to do "ls"
+<img width="1156" height="614" alt="image" src="https://github.com/user-attachments/assets/298d3d53-f3be-4ad4-84a8-8eaa51192fd9" />
+
+---
+
+<img width="1597" height="846" alt="image" src="https://github.com/user-attachments/assets/4157abea-d90f-4fe4-bd06-d9295d61135f" />
+
+
+
 8- create the same with jenkinsfile in your branches as multibranch pipeline
+<img width="1646" height="751" alt="image" src="https://github.com/user-attachments/assets/c1182a28-15db-4c65-bddc-3aef4016a5dc" />
+
+---
+
+
+<img width="985" height="486" alt="image" src="https://github.com/user-attachments/assets/bd043b31-18bf-462d-9b99-3b865c2f2fac" />
+
