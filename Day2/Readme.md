@@ -19,6 +19,12 @@
 
 
 3- create ec2 in aws and configure it as Jenkins slave
+<img width="1341" height="314" alt="image" src="https://github.com/user-attachments/assets/3dfb96d8-437a-45bb-8d8e-a2aa1f2bae0d" />
+
+---
+
+<img width="1470" height="352" alt="image" src="https://github.com/user-attachments/assets/ebaffc13-cbde-4c46-be4a-253439fb1c9a" />
+
 4- integrate slack with jenkins
 5- send slack message when stage in your pipeline is successful or failed
 6- install audit logs plugin and test it
