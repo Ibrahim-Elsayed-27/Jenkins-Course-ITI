@@ -70,4 +70,22 @@ https://github.com/Ibrahim-Elsayed-27/Booster_CI_CD_Project.git
 
 
 ### 8- Create infrastructure pipeline to run terraform with Jenkins
+https://github.com/Ibrahim-Elsayed-27/Terraform-Course-ITI.git
+
+<img width="692" height="108" alt="image" src="https://github.com/user-attachments/assets/c4659611-beb2-4075-b767-dbd21f301ffc" />
+
+
+---
+
+<img width="424" height="793" alt="image" src="https://github.com/user-attachments/assets/75e66b0c-0450-4f37-b16e-1755af6c94f2" />
+
+
+---
+
+<img width="562" height="401" alt="image" src="https://github.com/user-attachments/assets/52f040c8-0dc7-481f-b447-27dc128ae348" />
+
+
+---
+
+<img width="1346" height="340" alt="image" src="https://github.com/user-attachments/assets/98b6a107-92bf-4a6b-863e-6d91a4eabf36" />
 
