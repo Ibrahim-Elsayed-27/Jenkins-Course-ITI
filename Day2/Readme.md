@@ -44,7 +44,13 @@
 <img width="1219" height="202" alt="image" src="https://github.com/user-attachments/assets/7d5edbd0-f270-4cf0-a69d-6f17c1aab800" />
 
 ### 6- install audit logs plugin and test it
+<img width="1657" height="476" alt="image" src="https://github.com/user-attachments/assets/fcfc5a8b-d07d-4475-b06f-d27885b919ff" />
 
-7- fork the following repo https://github.com/mahmoud254/Booster_CI_CD_Project and add dockerfile to run this django app and use github actions to build the docker image and push it to your Dockerhub
-8- Create infrastructure pipeline to run terraform with Jenkins
-Task
+
+---
+
+<img width="1811" height="292" alt="image" src="https://github.com/user-attachments/assets/3abd7479-a52c-4182-94a5-3d85aa2290bb" />
+
+### 7- fork the following repo https://github.com/mahmoud254/Booster_CI_CD_Project and add dockerfile to run this django app and use github actions to build the docker image and push it to your Dockerhub
+### 8- Create infrastructure pipeline to run terraform with Jenkins
+
