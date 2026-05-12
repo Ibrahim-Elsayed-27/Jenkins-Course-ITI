@@ -18,16 +18,33 @@
 <img width="481" height="87" alt="image" src="https://github.com/user-attachments/assets/bbb94407-de30-4c6f-97c5-2f2f4cd36aae" />
 
 
-3- create ec2 in aws and configure it as Jenkins slave
+### 3- create ec2 in aws and configure it as Jenkins slave
 <img width="1341" height="314" alt="image" src="https://github.com/user-attachments/assets/3dfb96d8-437a-45bb-8d8e-a2aa1f2bae0d" />
 
 ---
 
 <img width="1470" height="352" alt="image" src="https://github.com/user-attachments/assets/ebaffc13-cbde-4c46-be4a-253439fb1c9a" />
 
-4- integrate slack with jenkins
-5- send slack message when stage in your pipeline is successful or failed
-6- install audit logs plugin and test it
+### 4- integrate slack with jenkins
+<img width="1487" height="713" alt="image" src="https://github.com/user-attachments/assets/c9a9db77-e8d3-4003-91cb-15e20d666ea9" />
+
+---
+
+<img width="743" height="297" alt="image" src="https://github.com/user-attachments/assets/ed7e6198-2069-4c9e-9ea2-9bf9286ac115" />
+
+### 5- send slack message when stage in your pipeline is successful or failed
+<img width="1349" height="574" alt="image" src="https://github.com/user-attachments/assets/de15e790-9f1d-4640-b014-5d0d08b96a35" />
+
+---
+
+<img width="667" height="452" alt="image" src="https://github.com/user-attachments/assets/35a2772b-c304-47c4-a208-61cba854b188" />
+
+---
+
+<img width="1219" height="202" alt="image" src="https://github.com/user-attachments/assets/7d5edbd0-f270-4cf0-a69d-6f17c1aab800" />
+
+### 6- install audit logs plugin and test it
+
 7- fork the following repo https://github.com/mahmoud254/Booster_CI_CD_Project and add dockerfile to run this django app and use github actions to build the docker image and push it to your Dockerhub
 8- Create infrastructure pipeline to run terraform with Jenkins
 Task
