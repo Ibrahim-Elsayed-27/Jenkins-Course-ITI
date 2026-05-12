@@ -52,5 +52,22 @@
 <img width="1811" height="292" alt="image" src="https://github.com/user-attachments/assets/3abd7479-a52c-4182-94a5-3d85aa2290bb" />
 
 ### 7- fork the following repo https://github.com/mahmoud254/Booster_CI_CD_Project and add dockerfile to run this django app and use github actions to build the docker image and push it to your Dockerhub
+
+https://github.com/Ibrahim-Elsayed-27/Booster_CI_CD_Project.git
+
+<img width="1607" height="528" alt="image" src="https://github.com/user-attachments/assets/5fa0e901-48b5-49a0-bd44-1552bdff9b7c" />
+
+
+---
+
+<img width="951" height="287" alt="image" src="https://github.com/user-attachments/assets/8781039c-e1cf-47f7-8037-323f187dfb33" />
+
+
+---
+
+
+<img width="951" height="287" alt="image" src="https://github.com/user-attachments/assets/e1399e90-b840-4a04-a22b-295ace30b373" />
+
+
 ### 8- Create infrastructure pipeline to run terraform with Jenkins
 
